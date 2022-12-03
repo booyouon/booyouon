@@ -1,12 +1,12 @@
-Hello and welcome to my ✨Github profile✨. I'm [Vince](http://vinceabuyuan.com).
+Hello and welcome to my ✨Github profile✨. I'm [Vince](http://vinceabuyuan.com) (he/him).
 
-- 🛠 Software Engineer and Salesforce Developer in the R&D team at [MK Partners](https://www.mkpartners.com)
+- 🛠 Software Engineer and Salesforce Developer for the R&D team at [MK Partners](https://www.mkpartners.com)
 - 🏫 UC Santa Barbara alumni with a Bachelors of Science in Biopsychology
+- 🏅 Salesforce Certified Platform App Builder. Follow me on [trailhead](https://trailblazer.me/id/vabuyuan)
 - 🎓 General Assembly SEI graduate
 - 👨 Father of two (cats)
 - 💬 Ask me about food, coffee, beer, plants, cooking, manga, video games, fitness, philosophy
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vinceabuyuan/)
-- 😄 Pronouns: He/Him
 
 <!--
 **booyouon/booyouon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
