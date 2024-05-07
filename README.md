@@ -1,5 +1,6 @@
 Hello and welcome to my profile. I'm [Vince](http://vinceabuyuan.com) (he/him).
 
+- 🌱 Building out the future of Outdoor Excursions at [GuideTime](https://www.guidetimebooking.com/s/)
 - 🛠 Formerly Software Engineer for the R&D team at [MK Partners](https://www.mkpartners.com) where I built the API for [Zealynx](https://www.zealynx.com) 
 - 🏫 UC Santa Barbara alumni with a Bachelors of Science in Biopsychology
 - 🏅 Salesforce Certified PD1 && PAB. Follow me on [trailhead](https://trailblazer.me/id/vabuyuan)
