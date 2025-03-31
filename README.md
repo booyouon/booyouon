@@ -6,7 +6,6 @@ Hello and welcome to my profile. I'm [Vince](http://vinceabuyuan.com) (he/him).
 - 🏫 UC Santa Barbara alumni with a Bachelors of Science in Biopsychology
 - 🏅 Salesforce Certified PD1 && PAB. Follow me on [trailhead](https://trailblazer.me/id/vabuyuan)
 - 🎓 General Assembly SEI graduate
-- 💬 Ask me about food, coffee, beer, plants, cooking, manga, video games, fitness, philosophy
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vinceabuyuan/)
 
 
