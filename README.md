@@ -1,8 +1,8 @@
 Hello and welcome to my profile. I'm [Vince](http://vinceabuyuan.com) (he/him).
 
-- 🔭 Currently a Software Engineer at [Science Exchange](https://www.scienceexchange.com/s/) 
-- 🌱 Formerly Salesforce Engineer at [GuideTime](https://www.guidetimebooking.com/s/) where I helped build out the future of Outdoor Excursions
-- 🛠 Formerly Software Engineer for the R&D team at [MK Partners](https://www.mkpartners.com) where I built the API for [Zealynx](https://www.zealynx.com)
+- 🔭 Current Software Engineer at [Science Exchange](https://www.scienceexchange.com/s/) 
+- 🌱 Former Salesforce Engineer at [GuideTime](https://www.guidetimebooking.com/s/) where I helped build out the future of Outdoor Excursions
+- 🛠 Former Software Engineer at [MK Partners](https://www.mkpartners.com) where I built the API for [Zealynx](https://www.zealynx.com)
 - 🏫 UC Santa Barbara alumni with a Bachelors of Science in Biopsychology
 - 🏅 Salesforce Certified PD1 && PAB && Admin. Follow me on [trailhead](https://trailblazer.me/id/vabuyuan)
 - 🎓 General Assembly SEI graduate
